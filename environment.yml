@@ -4,4 +4,10 @@ channels:
   
 dependencies:
   - python=3.7
-  - ipython=7.26.0
+  - ipython
+  - sphinx
+  - sphinx_rtd_theme
+  - pandas
+  - pip
+  - pip:
+    - -r requirements.txt
