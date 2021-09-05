@@ -1,6 +1,8 @@
 name: starter
 
 channels:
+  - defaults
+  - conda-forge
   
 dependencies:
   - python=3.7
@@ -8,6 +10,7 @@ dependencies:
   - sphinx
   - sphinx_rtd_theme
   - pandas
+  - pytest
   - pip
   - pip:
     - -r requirements.txt
