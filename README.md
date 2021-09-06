@@ -1,4 +1,4 @@
-# Python Package Starter Template
+# Python Library Starter Template
 
 This is a Python package template that includes creating the module with
 `setup.py`, creating an Ananconda environment, introductory docs with
