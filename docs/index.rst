@@ -1,5 +1,5 @@
-Welcome to the Python Library Starter Package Documentation
-===========================================================
+Welcome to the Python Library Starter Documentation
+===================================================
 
 ``starter`` is a project template for creating a Python library. It includes directory structure, files, and a simple program
 required to jumpstart a Python library. It includes information for creating a module with ``setup.py``, creating an 

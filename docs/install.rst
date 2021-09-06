@@ -20,7 +20,7 @@ Environment Setup
 
 Please follow these steps to correctly setup the environment:
 
-1. Clone the repository to a local folder called ``starter`` and ``cd``
+1. Clone the repository to a local folder called ``python_lib_starter`` and ``cd``
    into it.
 2. Execute the following command:
    ``create env create -f environment.yml``. This will create an
