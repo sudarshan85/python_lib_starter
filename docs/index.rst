@@ -10,6 +10,7 @@ Ananconda environment, introductory docs with Sphinx and autodoc, and testing mo
    :caption: Contents:
 
    install
+   usage
 
 .. toctree::
    :maxdepth: 2
