@@ -69,4 +69,4 @@ package folder. Finally, typing `make all` does the install, testing, and buildi
 all at once.
 
 For instructions on how to use this package to jumpstart your library development, please
-check `docs/usage.rst` or go to the documentation page and check *Usage*
+check `docs/usage.rst` or go to the documentation page and check *Usage*.
