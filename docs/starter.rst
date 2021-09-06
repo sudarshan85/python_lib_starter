@@ -1,3 +1,9 @@
+starter package
+===============
+
+Submodules
+----------
+
 starter.main module
 -------------------
 
@@ -6,3 +12,10 @@ starter.main module
    :undoc-members:
    :show-inheritance:
 
+Module contents
+---------------
+
+.. automodule:: starter
+   :members:
+   :undoc-members:
+   :show-inheritance:
