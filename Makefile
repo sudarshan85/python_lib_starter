@@ -6,7 +6,7 @@ test: FORCE ## Run tests using pytest
 docs: FORCE ## Build docs using Sphinx.
 	rm -rf docs/_build
 	sphinx-apidoc -fo docs starter
-	sphinx-build -b html docs docs/_build/html 
+	sphinx-build -b html docs docs/_build
 
 install: FORCE
 	pip install -e .
