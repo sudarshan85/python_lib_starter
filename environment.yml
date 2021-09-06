@@ -13,4 +13,4 @@ dependencies:
   - pytest
   - pip
   - pip:
-    - -r requirements.txt
+    - -r requirements_pip_only.txt
