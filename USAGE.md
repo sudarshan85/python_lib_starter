@@ -1,6 +1,6 @@
-# Usage
+## Usage
 
-## Package Usage
+### Package Usage
 
 The recommended way to use this package to jumpstart your Python library
 development is as follows:
@@ -18,9 +18,9 @@ development is as follows:
     other `rst` files with your library name that you just renamed.
 7.  Populate `index.rst` with the documentation about your library.
 8.  Delete `usage.rst` and remove its reference in index.rst.
-9.  Follow the installation instructions.
+9.  Follow the installation instructions below.
 
-## Module Usage
+### Module Usage
 
 In `setup.py` we have set `entry_points` with `startit` as the command
 point to the `entry_point` function in `main.py`. To make sure the
