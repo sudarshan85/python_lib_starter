@@ -14,7 +14,7 @@ development is as follows:
    ``main.py``, ``Makefile``, and ``docs/conf.py``.
 4. Replace ``startit`` in ``setup.py`` to the name of your library.
 5. Rename ``starter.rst`` to your library name (with ``.rst`` as
-   extenstion).
+   extenstion) and replace ``starter`` with the name of your libarry.
 6. Replace references to ``starter`` in ``modules.rst``, ``install.rst``
    and other ``rst`` files with your library name that you just renamed.
 7. Populate ``index.rst`` with the documentation about your library.
